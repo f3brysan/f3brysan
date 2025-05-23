@@ -1,28 +1,37 @@
-# 👋 Halo, saya Febry San!
+# 👋 Hi there, I'm Febry San!
 
-Saya adalah pengembang web dari Surabaya, Indonesia, dengan fokus pada pengembangan aplikasi berbasis Laravel dan Blade. Saya memiliki pengalaman dalam membangun sistem informasi akademik dan aplikasi web lainnya.
+I'm a web developer from Surabaya, Indonesia, with a focus on building applications using Laravel and Blade. I have experience developing academic information systems and various web-based applications.
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
-- **[fsi-app](https://github.com/f3brysan/fsi-app):** Aplikasi berbasis Blade.
-- **[wedding-app](https://github.com/f3brysan/wedding-app):** Aplikasi undangan pernikahan sederhana menggunakan Laravel 9.
-- **[damas-akfar-app](https://github.com/f3brysan/damas-akfar-app):** Sistem Informasi Akademik untuk Akademi Farmasi Surabaya.
-- **[portal-akfar-app](https://github.com/f3brysan/portal-akfar-app):** Portal web untuk Akademi Farmasi Surabaya.
+- **[fsi-app](https://github.com/f3brysan/fsi-app):** A Blade-based web application.
+- **[wedding-app](https://github.com/f3brysan/wedding-app):** A simple wedding invitation app built with Laravel 9.
+- **[damas-akfar-app](https://github.com/f3brysan/damas-akfar-app):** Academic Information System for Akademi Farmasi Surabaya.
+- **[portal-akfar-app](https://github.com/f3brysan/portal-akfar-app):** Web portal for Akademi Farmasi Surabaya.
 
-## 🛠️ Teknologi yang Dikuasai
+## 🛠️ Tech Stack
 
-- **Bahasa Pemrograman:** PHP, JavaScript, HTML, CSS
-- **Framework:** Laravel, Blade
-- **Database:** MySQL
-- **Alat Lainnya:** Git, GitHub
+- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Frameworks:** Laravel, Blade  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub
 
-## 📈 Statistik GitHub
+## 📈 GitHub Stats
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=f3brysan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3brysan&show_icons=true&theme=radical)
 
-## 📫 Hubungi Saya
+## 🏆 Highlights
 
-- **LinkedIn:** [linkedin.com/in/febry-san](https://www.linkedin.com/in/febry-san)
+- Top PHP Developer in Surabaya on CodersRank  
+- PHP Experience Score: 986.8  
+- Achievements: YOLO, Quickdraw
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/febry-san](https://www.linkedin.com/in/febry-san)  
 - **GitHub:** [github.com/f3brysan](https://github.com/f3brysan)
 
-Terima kasih telah mengunjungi profil saya!
+Thanks for stopping by!
+
+---
+[![](https://visitcount.itsvg.in/api?id=f3brysan&icon=0&color=0)](https://visitcount.itsvg.in)
