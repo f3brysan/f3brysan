@@ -31,6 +31,11 @@ I'm a web developer from Surabaya, Indonesia, with a focus on building applicati
 - **LinkedIn:** [linkedin.com/in/febry-san](https://www.linkedin.com/in/febry-san)  
 - **GitHub:** [github.com/f3brysan](https://github.com/f3brysan)
 
+## WakaTime
+
+[![wakatime](https://wakatime.com/badge/user/9d51c1a0-c6ce-415c-909a-ced35cb70399.svg)](https://wakatime.com/@9d51c1a0-c6ce-415c-909a-ced35cb70399)
+<figure><embed src="https://wakatime.com/share/@febrysan/c1a5d938-6f84-4e72-a5bb-86dd846dacf1.svg"></embed></figure>
+
 Thanks for stopping by!
 
 ---
